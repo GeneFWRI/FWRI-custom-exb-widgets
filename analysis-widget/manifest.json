@@ -1,0 +1,22 @@
+{
+  "name": "analysis-widget",
+  "label": "Analysis",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "FWRI",
+  "description": "Draw polygons on a map and review feature attributes, area, and perimeter measurements.",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "supportAutoSize": true,
+    "hasSettingPage": true
+  },
+  "dependency": "jimu-arcgis",
+  "defaultSize": {
+    "width": 360,
+    "height": 560
+  },
+  "translatedLocales": [
+    "en"
+  ]
+}

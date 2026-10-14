@@ -1,0 +1,19 @@
+{
+  "name": "shoremapper-tool",
+  "label": "ShoreMapper Tool",
+  "type": "widget",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This tool was created to assist stakeholders in determining what impacts if any to imperiled beach nesting bird nesting areas as a result of a proposed activity.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 360,
+    "height": 500
+  }
+}

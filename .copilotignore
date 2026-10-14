@@ -1,0 +1,26 @@
+# ====================================================================
+# ArcGIS Experience Builder - Copilotignore
+# ====================================================================
+
+# Node.js dependencies
+node_modules/
+
+# Build and transpile directories
+dist/
+dist-prod/
+dist-download/
+
+# Local configuration and environment files
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

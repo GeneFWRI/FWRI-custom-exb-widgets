@@ -1,0 +1,14 @@
+# Node/npm dependency tracking
+node_modules/
+npm-debug.log*
+
+# Experience Builder built distribution outputs (if applicable)
+dist/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Personal IDE configurations
+.vscode/
+.idea/
